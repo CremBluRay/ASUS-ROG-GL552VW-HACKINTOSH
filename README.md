@@ -34,6 +34,9 @@
 16. Open terminal and type `sudo trimforce disable` (this will make boot time much faster).
 17. Done!
 ---
+
+# Optional
+You can read [this guide](https://github.com/fidele007/Asus-ROG-GL552VW-Hackintosh/wiki/TouchPad-with-VoodooI2C) by [fidele007](https://github.com/fidele007) for a tutorial on how to get the trackpad working.
 ### Thanks to:
 - [fidele007](https://github.com/fidele007) for the original project and guide
 - [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/) for all the amazing guides and kexts
